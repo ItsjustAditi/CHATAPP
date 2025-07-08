@@ -1,0 +1,10 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="ChatClient2" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="client.Client" />
+    <module name="ChatApplication" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;D:\CHATAPP\lib\javafx-sdk-24.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
